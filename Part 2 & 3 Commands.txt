@@ -1,0 +1,33 @@
+Part 2:
+
+Q1: git clone https://github.com/LunarNode/Lab3-DATA541.git
+
+Q2: cd Lab3-DATA541/
+
+Q3: git branch Markdown
+
+Q4: git branch -b Markdown
+
+Q5: git status
+
+Q6: git add .
+    git commit -m "Q1 and Q2 Added"
+
+Q7: git push -u origin Markdown
+
+Q8: Screenshot
+
+Part 3:
+
+Q1: git checkout main
+
+Q2: git merge Markdown
+
+Q3: git push
+
+Q4: git branch -d Markdown
+    git push origin --delete Markdown
+    
+Q5: git log --pretty=oneline
+
+Q6: screenshot
